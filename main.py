@@ -18,3 +18,5 @@ Enjoy it!
 
 #writing dataframe
 st.write(df)
+#line graph
+st.line_chart(df)
